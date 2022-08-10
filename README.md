@@ -1,4 +1,4 @@
 # Robofriends
-clone the repo
-run npm install 
-run npm start
+1. clone the repo
+2. run npm install 
+3. run npm start

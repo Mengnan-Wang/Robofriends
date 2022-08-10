@@ -1,2 +1,1 @@
-website:
-https://mengnan-wang.github.io/Robofriends/
+A simple react robofriend website

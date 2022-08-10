@@ -1,4 +1,2 @@
-# Robofriends
-1. clone the repo
-2. run npm install 
-3. run npm start
+website:
+https://mengnan-wang.github.io/Robofriends/
